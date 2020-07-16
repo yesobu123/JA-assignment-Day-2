@@ -1,1 +1,1 @@
-# JA-assignment-Day-2
+# JS-assignment-Day-2
